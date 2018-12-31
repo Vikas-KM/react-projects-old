@@ -2,7 +2,7 @@
   "name": "person-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vikas-km.github.io/React-Projects/person-list",
+  "homepage": "https://vikas-km.github.io/person-list",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.7.0",
